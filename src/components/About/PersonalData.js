@@ -7,22 +7,22 @@ import { BsWindowSidebar } from 'react-icons/bs';
 export const PersonalData = [
   {
     icon: <MdSpeed />,
-    title: 'Fast',
-    desc: 'Fast load times and lag free interaction, my highest priority.',
+    title: 'Efficiency',
+    desc: 'Emphasizing fast load times and seamless interactions as the highest priority.',
   },
   {
     icon: <BsWindowSidebar />,
-    title: 'Responsive',
-    desc: 'My layouts will work on any device, big or small.',
+    title: 'Adaptability',
+    desc: 'Ensuring layouts work on any device, big or small.',
   },
   {
     icon: <GiOrbDirection />,
-    title: 'Intuitive',
-    desc: 'Strong preference for easy to use, intuitive UX/UI.',
+    title: 'User-Friendly',
+    desc: 'Focusing on creating intuitive and easy-to-use user interfaces and experiences.',
   },
   {
     icon: <GoRocket />,
-    title: 'Dynamic',
-    desc: 'Websites do not have to be static, I love making pages come to life.',
+    title: 'Interactivity',
+    desc: 'Enabling websites to be dynamic and bringing web pages to life with interactive elements.',
   },
 ];
