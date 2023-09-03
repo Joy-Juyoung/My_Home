@@ -70,7 +70,7 @@ export const FormWrap = styled.div`
     width: 100%;
     height: 48px;
     border-radius: 10px;
-    background: #c3bfca;
+    background: #dddddd;
     /* margin-right: 1rem; */
     margin-bottom: 0.5rem;
 
@@ -87,7 +87,7 @@ export const FormWrap = styled.div`
     border-radius: 10px;
     margin-bottom: 1.5rem;
     width: 100%;
-    background: #c3bfca;
+    background: #dddddd;
 
     ::placeholder {
       color: #000;
