@@ -16,15 +16,7 @@ import { MdSpeed } from 'react-icons/md';
 export const SkillData = [
   {
     icon: <MdSpeed />,
-    name: 'HTML/CSS/JAVASCRIPT',
-  },
-  {
-    icon: <MdSpeed />,
     name: 'React',
-  },
-  {
-    icon: <MdSpeed />,
-    name: 'Styled-component',
   },
   {
     icon: <MdSpeed />,
@@ -32,7 +24,7 @@ export const SkillData = [
   },
   {
     icon: <MdSpeed />,
-    name: 'GraphQL',
+    name: 'HTML/CSS/JAVASCRIPT',
   },
   {
     icon: <MdSpeed />,
@@ -44,20 +36,28 @@ export const SkillData = [
   },
   {
     icon: <MdSpeed />,
+    name: 'Styled-component',
+  },
+  {
+    icon: <MdSpeed />,
+    name: 'GraphQL',
+  },
+  {
+    icon: <MdSpeed />,
     name: 'MongoDB',
   },
   {
     icon: <MdSpeed />,
     name: 'Express',
   },
-  {
-    icon: <MdSpeed />,
-    name: 'MySQL',
-  },
-  {
-    icon: <MdSpeed />,
-    name: 'Typescript',
-  },
+  // {
+  //   icon: <MdSpeed />,
+  //   name: 'MySQL',
+  // },
+  // {
+  //   icon: <MdSpeed />,
+  //   name: 'Typescript',
+  // },
   {
     icon: <MdSpeed />,
     name: 'Gatsby',

@@ -22,7 +22,7 @@ const Hero = () => {
           Hello, I am <span>Juyoung Lee</span>.
         </HeroH1>
         <HeroP>
-          I'm a <span>Web Developer</span>.
+          I'm a <span>Front-end Developer</span>.
         </HeroP>
         <HeroBtnWrapper>
           <ColorButton
