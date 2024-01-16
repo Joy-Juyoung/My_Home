@@ -7,7 +7,8 @@ const BotImg = styled.img`
 `;
 
 const BottomBar = () => {
-  return <BotImg src={Bot} id='contact' />;
+  return <BotImg src={Bot} />;
+  // return <BotImg src={Bot} id='contact' />;
 };
 
 export default BottomBar;

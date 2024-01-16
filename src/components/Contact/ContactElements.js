@@ -8,8 +8,14 @@ export const ContactContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 1.5rem calc((100vw - 1300px) / 2);
-  margin-bottom: 3rem;
+  padding: 5rem calc((100vw - 1300px) / 2);
+  margin-top: -5rem;
+
+  @media screen and (max-width: 768px) {
+    /* padding: 5rem calc((100vw - 1300px) / 2); */
+    /* margin-bottom: 3rem; */
+    margin-top: 0;
+  }
 `;
 
 export const EmailImg = styled.img`
